@@ -1,0 +1,22 @@
+/* Attribute Selectors use below as example for form for webpage------------- */
+
+/*.form-contact {
+    padding: 20px 24px;
+    background: lavenderblush;
+}
+
+#container {
+    max-width: 500px;
+    margin: auto;
+}
+
+media query
+
+
+@media (min-width: 769px) {
+  .inln {
+    width: auto;
+    display: inline-block;
+  }
+}
+    ------------------ */
